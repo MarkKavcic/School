@@ -1,0 +1,5 @@
+public class GitHub{
+	public static void main(String [] args){
+		System.out.println("Prva  JAVA datoteka ki sem jo shranil na GitHub");
+	}
+}
